@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Asha-Priyadarshini.github.io/Mithran-Eye-Clinic",
+  "homepage": "https://mithraneyeclinic.com",
   "name": "eye-project",
   "version": "0.1.0",
   "private": true,
@@ -30,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages --dist build --cname mithraneyeclinic.com"
   },
   "eslintConfig": {
     "extends": [
