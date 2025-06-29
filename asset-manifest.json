@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Mithran-Eye-Clinic/static/css/main.71c89f7e.chunk.css",
+    "main.js": "/Mithran-Eye-Clinic/static/js/main.1fa66a06.chunk.js",
+    "main.js.map": "/Mithran-Eye-Clinic/static/js/main.1fa66a06.chunk.js.map",
+    "runtime-main.js": "/Mithran-Eye-Clinic/static/js/runtime-main.2926b468.js",
+    "runtime-main.js.map": "/Mithran-Eye-Clinic/static/js/runtime-main.2926b468.js.map",
+    "static/js/2.bab94a06.chunk.js": "/Mithran-Eye-Clinic/static/js/2.bab94a06.chunk.js",
+    "static/js/2.bab94a06.chunk.js.map": "/Mithran-Eye-Clinic/static/js/2.bab94a06.chunk.js.map",
+    "static/js/3.eaf1d7e8.chunk.js": "/Mithran-Eye-Clinic/static/js/3.eaf1d7e8.chunk.js",
+    "static/js/3.eaf1d7e8.chunk.js.map": "/Mithran-Eye-Clinic/static/js/3.eaf1d7e8.chunk.js.map",
+    "index.html": "/Mithran-Eye-Clinic/index.html",
+    "static/css/main.71c89f7e.chunk.css.map": "/Mithran-Eye-Clinic/static/css/main.71c89f7e.chunk.css.map",
+    "static/js/2.bab94a06.chunk.js.LICENSE.txt": "/Mithran-Eye-Clinic/static/js/2.bab94a06.chunk.js.LICENSE.txt",
+    "static/media/Cornea.75767ca6.jpg": "/Mithran-Eye-Clinic/static/media/Cornea.75767ca6.jpg",
+    "static/media/OIP.ad0db712.jpg": "/Mithran-Eye-Clinic/static/media/OIP.ad0db712.jpg",
+    "static/media/PASCAL_tonometer.cddb4715.jpg": "/Mithran-Eye-Clinic/static/media/PASCAL_tonometer.cddb4715.jpg",
+    "static/media/Retinopathy.f97510a3.jpg": "/Mithran-Eye-Clinic/static/media/Retinopathy.f97510a3.jpg",
+    "static/media/cataract.393eb11b.png": "/Mithran-Eye-Clinic/static/media/cataract.393eb11b.png",
+    "static/media/circles.db15a777.png": "/Mithran-Eye-Clinic/static/media/circles.db15a777.png",
+    "static/media/dry-eye.03a03eea.jpg": "/Mithran-Eye-Clinic/static/media/dry-eye.03a03eea.jpg",
+    "static/media/eye-exam-fundoscope.ad2e1069.jpg": "/Mithran-Eye-Clinic/static/media/eye-exam-fundoscope.ad2e1069.jpg",
+    "static/media/eye-genetics.631d5bf6.jpg": "/Mithran-Eye-Clinic/static/media/eye-genetics.631d5bf6.jpg",
+    "static/media/glaucoma.3be26e80.jpg": "/Mithran-Eye-Clinic/static/media/glaucoma.3be26e80.jpg",
+    "static/media/hero-bg.cee00ab9.png": "/Mithran-Eye-Clinic/static/media/hero-bg.cee00ab9.png",
+    "static/media/hero-img.d3a24ddb.png": "/Mithran-Eye-Clinic/static/media/hero-img.d3a24ddb.png",
+    "static/media/inspect.465deb64.jpg": "/Mithran-Eye-Clinic/static/media/inspect.465deb64.jpg",
+    "static/media/lady_doc.4427b44b.png": "/Mithran-Eye-Clinic/static/media/lady_doc.4427b44b.png",
+    "static/media/logo.4b53623e.png": "/Mithran-Eye-Clinic/static/media/logo.4b53623e.png",
+    "static/media/myopia.8cf44ef7.webp": "/Mithran-Eye-Clinic/static/media/myopia.8cf44ef7.webp",
+    "static/media/opticals.19915dcf.jpg": "/Mithran-Eye-Clinic/static/media/opticals.19915dcf.jpg",
+    "static/media/optometria-clinica.bc8742a0.jpg": "/Mithran-Eye-Clinic/static/media/optometria-clinica.bc8742a0.jpg",
+    "static/media/pink-eye.579a1fbb.jpg": "/Mithran-Eye-Clinic/static/media/pink-eye.579a1fbb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2926b468.js",
+    "static/js/2.bab94a06.chunk.js",
+    "static/css/main.71c89f7e.chunk.css",
+    "static/js/main.1fa66a06.chunk.js"
+  ]
+}
